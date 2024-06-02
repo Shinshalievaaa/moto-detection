@@ -1,4 +1,4 @@
-# [YOLO and OpenCV]
+# YOLO and OpenCV
 To run this:
 - `pip install -r requirements.txt`
 - If you want to read a video file and make predictions, run this and provide the video title:
